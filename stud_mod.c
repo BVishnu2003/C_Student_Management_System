@@ -28,7 +28,7 @@ void stud_mod()
         printf("P/p : Percentage\n");
 
         printf("\nEnter Your Choice : ");
-        scanf(" %c",&Mchoice);
+        scanf(" %c",&choice);
 
 
 
